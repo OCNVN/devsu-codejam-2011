@@ -75,7 +75,7 @@ console.log(`exercise 18: ${exercise_18(['test', 'contest', 'programming', 'more
 // Exercise 19: 11:42 | 3 points
 console.log(`exercise 19: ${exercise_19(25)}`);
 
-TODO: incomplete, look into recursion-practice project for number fractions example
+// TODO: incomplete, look into recursion-practice project for number fractions example
 console.log(`exercise 20: ${exercise_20(4)}`);
 
 // Exercise 21: 34:09 | 3 points
@@ -100,7 +100,7 @@ console.log(`exercise 22: ${exercise_22(
 // Exercise 23: 38:49 | 6 points
 console.log(`exercise 23: ${exercise_23('10 25 + 3 * 100 50 * - 85 + 10 13 - 4 * 36 * +')}`);
 
-Exercise 24: 51:39 | 6 points
+// Exercise 24: 51:39 | 6 points
 console.log(`exercise 24: ${exercise_24(
     [
         [true, false, false, false, true],
